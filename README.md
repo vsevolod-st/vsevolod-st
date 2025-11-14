@@ -4,7 +4,7 @@
 
 **Стэк инструментов:**
 * SQL (PostgreSQL)
-* Python для анализа данных (pandas, nampy)
+* Python для анализа данных (pandas)
 * Python для визуализации (matplotlib, seaborn)
 * DataLens
 
